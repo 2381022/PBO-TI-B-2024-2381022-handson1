@@ -3,8 +3,8 @@ public class KonversiTipeDataNumber {
         // Widening
         byte tipeDataByte = 10;
         short tipeDataShort = tipeDataByte;
-        int tipeDataint = tipeDataShort;
-        long tipeDataLong = tipeDataint;
+        int tipeDataInt = tipeDataShort;
+        long tipeDataLong = tipeDataInt;
         float tipeDataFloat = tipeDataLong;
         double tipeDataDouble = tipeDataFloat;
 

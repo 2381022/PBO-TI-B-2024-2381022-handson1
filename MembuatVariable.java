@@ -5,13 +5,16 @@ public class MembuatVariable {
         byte namaVariableSatu; // Java, Camel case
 
         int showInfo = 10;
-        int bilanganBlat = 20;
+        int bilanganBulat = 20;
 
         String firstName = "Paul";
         String lastName = "Andrew";
 
         //Deklarasi inisialisasi
          String fullName;
+         fullName = "Gerado Pasaribu";
+
+         final double PHI_VALUE = 3.14;
 
     }
 }
